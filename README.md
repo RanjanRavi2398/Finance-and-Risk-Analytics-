@@ -18,16 +18,20 @@ Consider yourself working for an associate at an investment firm that manages ac
 4.After the selection of stocks, the portfolio must be validated using the active investment strategy to estimate the prices in future. You must check if the portfolio has the potential to fulfil the financial goals set by the investor.
 
 #### Data Description:
+
 ##### You are provided with the following information for 24 stocks of leading companies listed in New York Stock Exchange(NYSE):
-Date
-1.Open price: Price of stock at the start of the day
-2.Close price: Price of stock at the end of the day
-3.High price: Highest price reached by the stock on that day
-4.Low price: Lowest price reached by the stock on that day
-5.Adjusted close price: Stock price adjusted to include the annual returns (dividends) that the company offers to the shareholders
-6.Volume traded: Number of stocks traded on the day
-7.The information for every stock ranges from 1st October 2010 to 30th September 2020.
+
+1.Date
+2..Open price: Price of stock at the start of the day
+3..Close price: Price of stock at the end of the day
+4..High price: Highest price reached by the stock on that day
+5..Low price: Lowest price reached by the stock on that day
+6..Adjusted close price: Stock price adjusted to include the annual returns (dividends) that the company offers to the shareholders
+7..Volume traded: Number of stocks traded on the day
+8..The information for every stock ranges from 1st October 2010 to 30th September 2020.
+
 ######The stocks belong to different domains:
+
 1.Technology/IT
 2.Travel/Aviation/Hospitality
 3.Banking/Financial Services and Insurance
