@@ -41,7 +41,7 @@ Consider yourself working for an associate at an investment firm that manages ac
 
 8. The information for every stock ranges from 1st October 2010 to 30th September 2020.
 
-######The stocks belong to different domains:
+###### The stocks belong to different domains:
 
 1.Technology/IT
 
